@@ -1,4 +1,4 @@
-# <img width="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Howdy! I’m [Mustafa Khan](https://notmustafa.com) <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">  
+# <img width="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Howdy! I’m [Mustafa Khan](https://mustafakhan.dev) <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+Awesome+Web+%26+Mobile+Apps!+%F0%9F%8C%8F;5%2B+Years+of+Experience+%E2%9C%85)  
 
