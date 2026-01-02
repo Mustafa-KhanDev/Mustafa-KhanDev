@@ -6,7 +6,7 @@
 
 ## 📬 Find Me At  
 
-[![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/notmustafakhan)](https://github.com/notmustafakhan) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/notmustafa_com)](https://instagram.com/notmustafa_com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/notmustafakhan)](https://twitter.com/notmustafakhan) [![Email Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:contact@notmustafa.com)](mailto:contact@notmustafa.com)  
+[![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/notmustafakhan)](https://github.com/Mustafa-KhanDev) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mustafa.xcf)](https://instagram.com/notmustafa_com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/notmustafakhan)](https://twitter.com/notmustafakhan) [![Email Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:contact@notmustafa.com)](mailto:contact@me@mustafakhan.dev.com)  
 
 ---
 
@@ -35,11 +35,6 @@
 
 ---
 
-## 📈 My GitHub Stats  
-
-![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mustafa-KhanDev&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-KhanDev&layout=compact&theme=radical)  
-
----
 
 ## 🖥️ My Dev Setup  
 
