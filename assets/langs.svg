@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="262" viewBox="0 0 880 262" role="img" aria-label="Most used languages: JavaScript 73.6%, CSS 9.7%, Shell 8.2%, PowerShell 3.7%, SQL 2.8%">
+  <title>Most used languages</title>
+  <style>
+    :root {
+      --bg: transparent;
+      --label: #8b98a9; --label-2: #5d6b80;
+      --pct: #e6edf3;
+      --track: #16202e;
+      --bar-stroke: rgba(0,0,0,0);
+      --accent: #ffd166;
+      --hairline: #1e2733;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --label: #4c5546; --label-2: #7a6a52;
+        --pct: #22254a;
+        --track: #e3e6df;
+        --bar-stroke: rgba(0,0,0,0.14);
+        --accent: #c2601f;
+        --hairline: #dfe2da;
+      }
+    }
+    .head { font: 500 12px ui-monospace, "Cascadia Mono", Menlo, Consolas, monospace; letter-spacing: 4px; fill: var(--label); }
+    .lang { font: 600 13.5px ui-monospace, "Cascadia Mono", Menlo, Consolas, monospace; letter-spacing: 1px; fill: var(--label); }
+    .pct { font: 500 12px ui-monospace, "Cascadia Mono", Menlo, Consolas, monospace; fill: var(--pct); }
+    .track { fill: var(--track); }
+    .bar { stroke: var(--bar-stroke); stroke-width: 1; }
+  </style>
+
+  <text class="head" x="24" y="34">MOST USED LANGUAGES</text>
+  <rect x="24" y="44" width="120" height="2" fill="var(--accent)" opacity="0.85"/>
+
+  <!-- JavaScript 73.6% -->
+  <text class="lang" x="24" y="86">JavaScript</text>
+  <rect class="track" x="170" y="74" width="560" height="11" rx="5.5"/>
+  <rect class="bar" x="170" y="74" width="0" height="11" rx="5.5" fill="#f7df1e">
+    <animate attributeName="width" from="0" to="412" dur="1.2s" begin="0.15s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.2 1" keyTimes="0;1"/>
+  </rect>
+  <text class="pct" x="746" y="86">73.6%</text>
+
+  <!-- CSS 9.7% -->
+  <text class="lang" x="24" y="126">CSS</text>
+  <rect class="track" x="170" y="114" width="560" height="11" rx="5.5"/>
+  <rect class="bar" x="170" y="114" width="0" height="11" rx="5.5" fill="#663399">
+    <animate attributeName="width" from="0" to="54" dur="1.2s" begin="0.35s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.2 1" keyTimes="0;1"/>
+  </rect>
+  <text class="pct" x="746" y="126">9.7%</text>
+
+  <!-- Shell 8.2% -->
+  <text class="lang" x="24" y="166">Shell</text>
+  <rect class="track" x="170" y="154" width="560" height="11" rx="5.5"/>
+  <rect class="bar" x="170" y="154" width="0" height="11" rx="5.5" fill="#89e051">
+    <animate attributeName="width" from="0" to="46" dur="1.2s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.2 1" keyTimes="0;1"/>
+  </rect>
+  <text class="pct" x="746" y="166">8.2%</text>
+
+  <!-- PowerShell 3.7% -->
+  <text class="lang" x="24" y="206">PowerShell</text>
+  <rect class="track" x="170" y="194" width="560" height="11" rx="5.5"/>
+  <rect class="bar" x="170" y="194" width="0" height="11" rx="5.5" fill="#5391fe">
+    <animate attributeName="width" from="0" to="21" dur="1.2s" begin="0.75s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.2 1" keyTimes="0;1"/>
+  </rect>
+  <text class="pct" x="746" y="206">3.7%</text>
+
+  <!-- SQL 2.8% -->
+  <text class="lang" x="24" y="246">SQL</text>
+  <rect class="track" x="170" y="234" width="560" height="11" rx="5.5"/>
+  <rect class="bar" x="170" y="234" width="0" height="11" rx="5.5" fill="#e38c00">
+    <animate attributeName="width" from="0" to="16" dur="1.2s" begin="0.95s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.2 1" keyTimes="0;1"/>
+  </rect>
+  <text class="pct" x="746" y="246">2.8%</text>
+</svg>
