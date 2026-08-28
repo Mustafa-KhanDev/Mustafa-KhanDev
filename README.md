@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/Mustafa-KhanDev/Mustafa-KhanDev/main/assets/banner.svg?v=2" width="900" alt="Animated Karachi skyline reflecting in the Arabian Sea — twinkling stars, shooting star, plane, clock tower, crane, rippling reflections, drifting boat">
 
-**Mustafa Khan** — full-stack developer, Karachi.
+<p>
+  <img src="https://raw.githubusercontent.com/Mustafa-KhanDev/Mustafa-KhanDev/main/assets/langs.svg" width="880" alt="Most used languages — animated bars">
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/Mustafa-KhanDev/Mustafa-KhanDev/main/assets/stats.svg" width="880" alt="Stats — coding since 2022, repositories, languages, Karachi UTC+5">
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Mustafa-KhanDev&layout=compact&bg_color=00000000&hide_border=true&title_color=ffd166&text_color=e6edf3&icon_color=ffd166&hide_progress=false&v=2">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Mustafa-KhanDev&layout=compact&bg_color=00000000&hide_border=true&title_color=c2601f&text_color=2f3350&icon_color=c2601f&hide_progress=false&v=2" alt="Languages used by Mustafa-KhanDev" width="420">
-</picture>
-
-TypeScript · Node.js · React · Flutter · Laravel · PostgreSQL · Redis · Linux
-
-[mustafakhan.dev](https://mustafakhan.dev)
+<p align="center">
+  <a href="https://mustafakhan.dev"><b>mustafakhan.dev</b></a>
+</p>
