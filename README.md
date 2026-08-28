@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Mustafa-KhanDev/Mustafa-KhanDev/main/assets/banner.svg" width="830" alt="Animated Karachi skyline — Mazar-e-Quaid dome, Empress Market clock tower with a moving minute hand, a swinging construction crane, traffic, and a blinking cursor after the name MUSTAFA KHAN">
+<img src="https://raw.githubusercontent.com/Mustafa-KhanDev/Mustafa-KhanDev/main/assets/banner.svg?v=2" width="900" alt="Animated Karachi skyline reflecting in the Arabian Sea — twinkling stars, shooting star, plane, clock tower, crane, rippling reflections, drifting boat">
 
 **Mustafa Khan** — full-stack developer, Karachi.
 
